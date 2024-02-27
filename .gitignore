@@ -5,3 +5,7 @@ UniversityApplication/.gitignore
 ### FootballTournament Exercise ###
 FootballTournament/.idea/
 FootballTournament/.gitignore
+
+### PrimitivesArraysCasting Exercise ###
+PrimitivesArraysCasting/.idea/
+PrimitivesArraysCasting/.gitignore
