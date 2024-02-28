@@ -9,3 +9,7 @@ FootballTournament/.gitignore
 ### PrimitivesArraysCasting Exercise ###
 PrimitivesArraysCasting/.idea/
 PrimitivesArraysCasting/.gitignore
+
+### Objects Exercise ###
+Objects/.idea/
+Objects/.gitignore
