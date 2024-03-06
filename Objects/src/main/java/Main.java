@@ -1,10 +1,13 @@
 public class Main {
     public static void main(String[] args) {
         Person person = new Person();
-        person.setName("Charlie Kelly");
-        person.setAge(34);
+        person.name = "Speed Racer";
 
-        System.out.println("Name: " + person.getName());
-        System.out.println(("Age: " + person.getAge()));
+        Car car = new Car();
+        car.model = "BMW i8";
+        car.owner = person;
+
+        System.out.println("Car model: " + car.model);
+        System.out.print("Car owner: " + car.owner.name);
     }
 }
